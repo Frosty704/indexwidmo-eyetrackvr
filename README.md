@@ -11,3 +11,7 @@ This is modeled after -
 [Physics-Dudes v18 eyetracking mount](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/blob/main/ETVR%20ValveIndex%20Cam-LED%20Mount%20Rings/Index-EyetrackVRv4%20v18%20Print%20Me.stl)
 
 this was made in blender with little to no 3d modeling/cad experience with guesstimated dimensions so excuse the poor topology and or potential clearance/fitting issues
+
+![full](https://cdn.discordapp.com/attachments/1081887210065895445/1172655915976097832/IMG_2097.jpg)
+
+![clearcut](https://cdn.discordapp.com/attachments/1081887210065895445/1172715331089870908/IMG_2103.jpg)
