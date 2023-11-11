@@ -1,3 +1,4 @@
+# I HAVE NOT TESTED THIS WITH THE LENS AND LEDS YET,PROOF OF CONCEPT THAT NEEDS TESTING
 # indexwidmo-eyetrackvr
 EyeTrackVR mounts for the WidmoVR prescription lens on the valve index
 
