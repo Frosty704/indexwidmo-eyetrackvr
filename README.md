@@ -15,3 +15,5 @@ this was made in blender with little to no 3d modeling/cad experience with guess
 ![full](https://cdn.discordapp.com/attachments/1081887210065895445/1172655915976097832/IMG_2097.jpg)
 
 ![clearcut](https://cdn.discordapp.com/attachments/1081887210065895445/1172715331089870908/IMG_2103.jpg)
+
+# credit to my friend jester for printing and testing these
