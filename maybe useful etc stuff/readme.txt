@@ -1,0 +1,1 @@
+these are the valve index lens tube made with mostly guesstimated dimensions and a scuffed tape measure(no callipers) but i believe accurate within 1-3mm
