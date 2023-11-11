@@ -1,6 +1,8 @@
 # indexwidmo-eyetrackvr
 EyeTrackVR mounts for the WidmoVR prescription lens on the valve index
 
+The clearance cut version has a small part of the top of the mount cut out inwards due to the very, very dodgy clearance at the top, however, both should still fit and not touch (it may touch the gasket)
+
 This is modeled after -
 
 [Lerx-cnm's Widmo insert model](https://github.com/Lerx-cnm/WidmovrIndexInsert)
