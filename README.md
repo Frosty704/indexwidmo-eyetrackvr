@@ -12,8 +12,14 @@ This is modeled after -
 
 this was made in blender with little to no 3d modeling/cad experience with guesstimated dimensions so excuse the poor topology and or potential clearance/fitting issues
 
+![1](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/eca82e52-30ad-4aa9-8cca-4ebea2891e4e)
+
+![5](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/ca75f7e5-63a0-4f0a-bff6-3b047c994b78)
+
+![6](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/aa212b75-e993-42a6-9dbb-bf8b1ff2a9fc)
+
 ![full](https://cdn.discordapp.com/attachments/1081887210065895445/1172655915976097832/IMG_2097.jpg)
 
 ![clearcut](https://cdn.discordapp.com/attachments/1081887210065895445/1172715331089870908/IMG_2103.jpg)
 
-# credit to my friend jester for printing and testing these
+# credits and many thanks to my friend jester for printing and testing these
