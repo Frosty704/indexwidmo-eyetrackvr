@@ -18,8 +18,10 @@ this was made in blender with little to no 3d modeling/cad experience with guess
 
 ![6](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/aa212b75-e993-42a6-9dbb-bf8b1ff2a9fc)
 
+# credits and many thanks to my friend jester for printing and testing these
+
+
 ![full](https://cdn.discordapp.com/attachments/1081887210065895445/1172655915976097832/IMG_2097.jpg)
 
 ![clearcut](https://cdn.discordapp.com/attachments/1081887210065895445/1172715331089870908/IMG_2103.jpg)
 
-# credits and many thanks to my friend jester for printing and testing these
