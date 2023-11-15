@@ -1,4 +1,4 @@
-# I HAVE NOT TESTED THIS WITH THE CAMERA AND LEDS YET,PROOF OF CONCEPT THAT NEEDS TESTING
+# I HAVE NOT TESTED THIS WITH THE LEDS YET,PROOF OF CONCEPT THAT NEEDS TESTING
 # indexwidmo-eyetrackvr
 EyeTrackVR mounts for the WidmoVR prescription lens on the valve index
 
@@ -12,14 +12,25 @@ This is modeled after -
 
 this was made in blender with little to no 3d modeling/cad experience with guesstimated dimensions so excuse the poor topology and or potential clearance/fitting issues
 
+# TO INSTALL, simply put the mount over, push down on the camera mount side first, then snap down the 2 edges top and bottom simultaneously, should snap down into place and may need a little further adjusting
+# TO REMOVE, just pull up on the mount or the prescription mount, most of the time the prescription lens will come with it and then you can easily push it out from there
+
 ![1](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/eca82e52-30ad-4aa9-8cca-4ebea2891e4e)
 
 ![5](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/ca75f7e5-63a0-4f0a-bff6-3b047c994b78)
 
 ![6](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/aa212b75-e993-42a6-9dbb-bf8b1ff2a9fc)
 
-# credits and many thanks to my friend jester for printing and testing these
 
+![7](https://cdn.discordapp.com/attachments/1119308790601367753/1174384070709497988/IMG_5449.jpg)
+
+![8](https://cdn.discordapp.com/attachments/1119308790601367753/1174384069459574886/IMG_5452.jpg)
+
+![9](https://cdn.discordapp.com/attachments/1119308790601367753/1174384068834643988/IMG_5451.jpg)
+
+![10](https://cdn.discordapp.com/attachments/1119308790601367753/1174384070105501776/IMG_5450.jpg)
+
+# credits and many thanks to my friend jester for printing and testing a few for me
 
 ![full](https://cdn.discordapp.com/attachments/1081887210065895445/1172655915976097832/IMG_2097.jpg)
 
