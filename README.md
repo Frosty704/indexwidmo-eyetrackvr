@@ -39,3 +39,10 @@ This is modeled after -
 
 ![clearcut](https://cdn.discordapp.com/attachments/1081887210065895445/1172715331089870908/IMG_2103.jpg)
 
+## Attribution
+
+From: [Lerx-cnm's Widmo insert model Repo](https://github.com/Lerx-cnm/WidmovrIndexInsert)
+- The WidmoVR ETVR mount is an edited version of a **REVERSE ENGINEERED** version of WidmoVR's Valve Index Prescription Mount. All credits go to WidmoVR
+- This repository does not grant any rights or licenses for the original WidmoVR 3D model.
+- Users should respect the original creator's rights and licensing terms, if applicable.
+- Any use, modification, or distribution of the original WidmoVR model should be done in accordance with its respective license, if one exists.
