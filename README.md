@@ -1,6 +1,6 @@
 # I HAVE NOT TESTED THIS WITH THE LEDS YET,PROOF OF CONCEPT THAT NEEDS TESTING
 # indexwidmo-eyetrackvr
-EyeTrackVR mounts for the WidmoVR prescription lens on the valve index
+[EyeTrackVR](https://docs.eyetrackvr.dev/) mounts for the [WidmoVR prescription lens on the valve index](https://widmovr.com/product/valve-index-prescription-lens-adapters/)
 
 this was made in blender with little to no 3d modeling/cad experience with guesstimated dimensions so excuse the poor topology and or potential clearance/fitting issues
 
