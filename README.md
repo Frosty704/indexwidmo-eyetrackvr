@@ -2,6 +2,8 @@
 # indexwidmo-eyetrackvr
 EyeTrackVR mounts for the WidmoVR prescription lens on the valve index
 
+this was made in blender with little to no 3d modeling/cad experience with guesstimated dimensions so excuse the poor topology and or potential clearance/fitting issues
+
 The cut version has a small part of the top of the mount cut out inwards due to the very, very dodgy clearance at the top, however, both should still fit and not touch (it may touch the gasket)
 
 This is modeled after -
@@ -10,10 +12,11 @@ This is modeled after -
 
 [Physics-Dudes v18 eyetracking mount](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/blob/main/ETVR%20ValveIndex%20Cam-LED%20Mount%20Rings/Index-EyetrackVRv4%20v18%20Print%20Me.stl)
 
-this was made in blender with little to no 3d modeling/cad experience with guesstimated dimensions so excuse the poor topology and or potential clearance/fitting issues
+### Recommend to print in PETG, or anything with better heat resistance than PLA because the cameras get spicy
 
-# TO INSTALL, simply put the mount over, push down on the camera mount side first, then snap down the 2 edges top and bottom simultaneously, should snap down into place and may need a little further adjusting
-# TO REMOVE, just pull up on the mount or the prescription mount, most of the time the prescription lens will come with it and then you can easily push it out from there
+## TO INSTALL: Simply put the mount over, push down on the camera mount side first. Once that is down, put pressure on the 2 edges(nose area) top and bottom simultaneously, should snap down into place and may need a little further adjusting on the rotation to line up with the nose side angle
+
+## TO REMOVE: Pull up on the bottom, what may happen is the prescription lens comes with it, just take both of them and push the prescription lens off
 
 ![1](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/eca82e52-30ad-4aa9-8cca-4ebea2891e4e)
 
