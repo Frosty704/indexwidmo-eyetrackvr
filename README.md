@@ -26,7 +26,7 @@ This is modeled after -
 
 ![7](https://cdn.discordapp.com/attachments/343215063907434496/1174964230538137620/IMG_5541.jpg)
 
-[!7.5](https://cdn.discordapp.com/attachments/343215063907434496/1174964229300817970/IMG_5538.jpg)
+![7.5](https://cdn.discordapp.com/attachments/343215063907434496/1174964229300817970/IMG_5538.jpg)
 
 ![8](https://cdn.discordapp.com/attachments/343215063907434496/1174964232329121812/IMG_5545.jpg)
 
