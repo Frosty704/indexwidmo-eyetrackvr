@@ -20,26 +20,20 @@ This is modeled after -
 
 ![1](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/eca82e52-30ad-4aa9-8cca-4ebea2891e4e)
 
-![5](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/ca75f7e5-63a0-4f0a-bff6-3b047c994b78)
-
 ![6](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/aa212b75-e993-42a6-9dbb-bf8b1ff2a9fc)
 
+# Mount pictures
 
-![7](https://cdn.discordapp.com/attachments/1119308790601367753/1174384070709497988/IMG_5449.jpg)
+![7](https://cdn.discordapp.com/attachments/343215063907434496/1174964230538137620/IMG_5541.jpg)
 
-![8](https://cdn.discordapp.com/attachments/1119308790601367753/1174384069459574886/IMG_5452.jpg)
+[!7.5](https://cdn.discordapp.com/attachments/343215063907434496/1174964229300817970/IMG_5538.jpg)
 
-![9](https://cdn.discordapp.com/attachments/1119308790601367753/1174384068834643988/IMG_5451.jpg)
+![8](https://cdn.discordapp.com/attachments/343215063907434496/1174964232329121812/IMG_5545.jpg)
 
-![10](https://cdn.discordapp.com/attachments/1119308790601367753/1174384070105501776/IMG_5450.jpg)
+![9](https://cdn.discordapp.com/attachments/343215063907434496/1174964231381188639/IMG_5543.jpg)
 
-# credits and many thanks to my friend jester for printing and testing a few for me
 
-![full](https://cdn.discordapp.com/attachments/1081887210065895445/1172655915976097832/IMG_2097.jpg)
-
-![clearcut](https://cdn.discordapp.com/attachments/1081887210065895445/1172715331089870908/IMG_2103.jpg)
-
-## Attribution
+# Attribution
 
 From: [Lerx-cnm's Widmo insert model Repo](https://github.com/Lerx-cnm/WidmovrIndexInsert)
 - The WidmoVR ETVR mount is an edited version of a **REVERSE ENGINEERED** version of WidmoVR's Valve Index Prescription Mount. All credits go to WidmoVR
