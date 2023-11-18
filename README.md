@@ -14,7 +14,7 @@ This is modeled after -
 
 ### Recommend to print in PETG, or anything with better heat resistance than PLA because the cameras get spicy
 
-## TO INSTALL: Simply put the mount over, push down on the camera mount side first. Once that is down, put pressure on the 2 edges(nose area) top and bottom simultaneously, should snap down into place and may need a little further adjusting on the rotation to line up with the nose side angle
+## TO INSTALL: Line the mount up at an angle, put the nose angle side over first so it's flat with the prescription mount surface and has the prescription mount border peeking slightly over, then push down on the camera side until it snaps or fits into place
 
 ## TO REMOVE: Pull up on the bottom, what may happen is the prescription lens comes with it, just take both of them and push the prescription lens off
 
