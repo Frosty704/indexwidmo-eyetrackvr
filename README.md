@@ -1,5 +1,5 @@
 # I HAVE NOT TESTED THIS WITH THE LEDS YET,PROOF OF CONCEPT THAT NEEDS TESTING
-# indexwidmo-eyetrackvr
+
 [EyeTrackVR](https://docs.eyetrackvr.dev/) mounts for the [WidmoVR prescription lens on the valve index](https://widmovr.com/product/valve-index-prescription-lens-adapters/)
 
 this was made in blender with little to no 3d modeling/cad experience with guesstimated dimensions so excuse the poor topology and or potential clearance/fitting issues
@@ -14,21 +14,33 @@ This is modeled after -
 
 ### Recommend to print in PETG, or anything with better heat resistance than PLA because the cameras get spicy
 
-## TO INSTALL: Line the mount up at an angle, put the nose angle side over first so it's flat with the prescription mount surface and has the prescription mount border peeking slightly over, then push down on the camera side until it snaps or fits into place
-
-## TO REMOVE: Pull up on the bottom, what may happen is the prescription lens comes with it, just take both of them and push the prescription lens off
 
 ![1](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/eca82e52-30ad-4aa9-8cca-4ebea2891e4e)
 
 ![6](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/aa212b75-e993-42a6-9dbb-bf8b1ff2a9fc)
 
-# Mount pictures
-
 ![7](https://cdn.discordapp.com/attachments/343215063907434496/1174964230538137620/IMG_5541.jpg)
 
-![8](https://cdn.discordapp.com/attachments/343215063907434496/1174964232329121812/IMG_5545.jpg)
 
-![9](https://cdn.discordapp.com/attachments/343215063907434496/1174964231381188639/IMG_5543.jpg)
+# V2 Mount
+
+- slightly redesigned the widmovr mount to make it more flush with the existing prescription mount, along with moving the nose LED ontop (how this will affect the lightning im not sure atm)
+
+- It also is installed differently, its best to install it while the prescription lens is not on the index lens.  
+
+- You will have to line up the mount from the camera mount side so it is slightly under the Widmo's little lip at the lens, and you will notice that the nose LED is slightly peeking over.
+
+- Push that area down gently (While still holding the rest of the mount in place) until you stretch it ever so slightly that it snaps into place. Avoid pushing down on the LED clips and camera clips as they can break easily.
+
+- After the mount is one with the WidmoVR lens, you can place it back onto the index lens as normal.
+
+## V2 experimental mount pictures
+
+![v2_1](https://cdn.discordapp.com/attachments/588109094515245079/1179667529535340574/IMG_5787.jpg)
+
+![v2_2](https://cdn.discordapp.com/attachments/588109094515245079/1179665309574115380/IMG_5777.jpg)
+
+![v2_3](https://cdn.discordapp.com/attachments/588109094515245079/1179665306059288616/IMG_5781.jpg)
 
 
 # Attribution
