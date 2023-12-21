@@ -40,7 +40,7 @@ This is modeled after -
 
 ![v2_2](https://cdn.discordapp.com/attachments/588109094515245079/1179665309574115380/IMG_5777.jpg)
 
-![v2_3](https://cdn.discordapp.com/attachments/588109094515245079/1179665306059288616/IMG_5781.jpg)
+![IMG_5781](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/a2dd273d-ca53-4558-bcce-d060ce6e2a43)
 
 
 # Attribution
