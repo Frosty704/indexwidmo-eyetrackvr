@@ -1,6 +1,6 @@
 [EyeTrackVR](https://docs.eyetrackvr.dev/) mounts for the [WidmoVR prescription lens on the valve index](https://widmovr.com/product/valve-index-prescription-lens-adapters/)
 
-# Print at your own risk, don't expect this to work perfectly. I jerry rigged this in blender with little to no CAD/3D modeling experience
+# ⚠️Print at your own risk, don't expect this to work perfectly. I jerry rigged this in blender with little to no CAD/3D modeling experience
 As of right now, the nose LED does poke my nose slightly. However a little electrical could be a bandaid fix
 
 This is modeled after -
@@ -11,23 +11,26 @@ This is modeled after -
 
 # V2 Mount
 
-- slightly redesigned the widmovr mount to make it more flush with the existing prescription mount, along with moving the nose LED ontop (how this will affect the lightning im not sure atm)
+## Install the mount while your WidmoVR lens is not on the index. Take it off before installing  
 
-- It also is installed differently, its best to install it while the prescription lens is not on the index lens.  
+1. You will have to line up the mount from the camera mount side so it is slightly under the Widmo's little lip at the lens. At this point the nose LED should be slightly peeking over and not fully down.
 
-- You will have to line up the mount from the camera mount side so it is slightly under the Widmo's little lip at the lens, and you will notice that the nose LED is slightly peeking over.
+⚠️ **Avoid pushing down on the LED clips and camera clips as they can break easily**
 
-- Push that area down gently (While still holding the rest of the mount in place) until you stretch it ever so slightly that it snaps into place. Avoid pushing down on the LED clips and camera clips as they can break easily.
+2. Push that area down firmly (While still holding the rest of the mount in place) until you push it ever so slightly so it snaps into place.
+   
+3. Push down on the rest of the mount to make sure everything is down securely. 
 
-- After the mount is one with the WidmoVR lens, you can place it back onto the index lens as normal.
+4. After the mount is one with the WidmoVR lens, you can place it back onto the index lens as normal.
 
-## V2 experimental mount pictures
+https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/c7f86a37-1e2c-4682-8157-f95ab86414a3
+
 
 ![v2_1](https://cdn.discordapp.com/attachments/588109094515245079/1179667529535340574/IMG_5787.jpg)
 
-![v2_2](https://cdn.discordapp.com/attachments/588109094515245079/1179665309574115380/IMG_5777.jpg)
-
 ![v2_3](https://cdn.discordapp.com/attachments/1119308790601367753/1195784231423590410/IMG_6109.jpg)
+
+![v2_2](https://cdn.discordapp.com/attachments/588109094515245079/1179665309574115380/IMG_5777.jpg)
 
 ![IMG_5781](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/a2dd273d-ca53-4558-bcce-d060ce6e2a43)
 
