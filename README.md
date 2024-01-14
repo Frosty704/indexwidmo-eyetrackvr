@@ -1,7 +1,7 @@
 [EyeTrackVR](https://docs.eyetrackvr.dev/) mounts for the [WidmoVR prescription lens on the valve index](https://widmovr.com/product/valve-index-prescription-lens-adapters/)
 
 # ⚠️Print at your own risk, don't expect this to work perfectly. I jerry rigged this in blender with little to no CAD/3D modeling experience
-As of right now, the nose LED does poke my nose slightly. However a little electrical could be a bandaid fix
+As of right now, the nose LED does poke my nose slightly. However a little electrical tape could be a bandaid fix
 
 This is modeled after -
 
