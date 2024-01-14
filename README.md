@@ -1,19 +1,13 @@
-# I HAVE NOT TESTED THIS WITH THE LEDS YET,PROOF OF CONCEPT THAT NEEDS TESTING
-
 [EyeTrackVR](https://docs.eyetrackvr.dev/) mounts for the [WidmoVR prescription lens on the valve index](https://widmovr.com/product/valve-index-prescription-lens-adapters/)
 
-this was made in blender with little to no 3d modeling/cad experience with guesstimated dimensions so excuse the poor topology and or potential clearance/fitting issues
-
-The cut version has a small part of the top of the mount cut out inwards due to the very, very dodgy clearance at the top, however, both should still fit and not touch (it may touch the gasket)
+# Print at your own risk, don't expect this to work perfectly. I jerry rigged this in blender with little to no CAD/3D modeling experience
+As of right now, the nose LED does poke my nose slightly. However a little electrical could be a bandaid fix
 
 This is modeled after -
 
 [Lerx-cnm's Widmo insert model](https://github.com/Lerx-cnm/WidmovrIndexInsert)
 
 [Physics-Dudes v18 eyetracking mount](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/blob/main/ETVR%20ValveIndex%20Cam-LED%20Mount%20Rings/Index-EyetrackVRv4%20v18%20Print%20Me.stl)
-
-### Recommend to print in PETG, or anything with better heat resistance than PLA because the cameras get spicy
-
 
 # V2 Mount
 
@@ -32,6 +26,8 @@ This is modeled after -
 ![v2_1](https://cdn.discordapp.com/attachments/588109094515245079/1179667529535340574/IMG_5787.jpg)
 
 ![v2_2](https://cdn.discordapp.com/attachments/588109094515245079/1179665309574115380/IMG_5777.jpg)
+
+![v2_3](https://cdn.discordapp.com/attachments/1119308790601367753/1195784231423590410/IMG_6109.jpg)
 
 ![IMG_5781](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/a2dd273d-ca53-4558-bcce-d060ce6e2a43)
 
