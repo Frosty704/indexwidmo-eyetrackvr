@@ -15,13 +15,6 @@ This is modeled after -
 ### Recommend to print in PETG, or anything with better heat resistance than PLA because the cameras get spicy
 
 
-![1](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/eca82e52-30ad-4aa9-8cca-4ebea2891e4e)
-
-![6](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/aa212b75-e993-42a6-9dbb-bf8b1ff2a9fc)
-
-![7](https://cdn.discordapp.com/attachments/343215063907434496/1174964230538137620/IMG_5541.jpg)
-
-
 # V2 Mount
 
 - slightly redesigned the widmovr mount to make it more flush with the existing prescription mount, along with moving the nose LED ontop (how this will affect the lightning im not sure atm)
