@@ -35,6 +35,10 @@ https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/c7f86a37-1e2c
 ![IMG_5781](https://github.com/Frosty704/indexwidmo-eyetrackvr/assets/36753686/a2dd273d-ca53-4558-bcce-d060ce6e2a43)
 
 
+# WidmoFitTest file 
+Snap/friction fit over the WidmoVR lens, but with nothing on it. Use as a template/base to add your own led/camera mounts
+It is a bit of a tight fit, or may change depending on printer tolerance, ymmv, scale up 1% if its too tight
+
 # Attribution
 
 From: [Lerx-cnm's Widmo insert model Repo](https://github.com/Lerx-cnm/WidmovrIndexInsert)
